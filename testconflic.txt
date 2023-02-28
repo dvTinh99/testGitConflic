@@ -1,12 +1,12 @@
 dòng số 1
 dòng số 2
 dòng số 3
-dòng số 4
+dòng số 4 change nè
 dòng số 5
 dòng số 6
 dòng số 7
 dòng số 8
-dòng số 9
+dòng số 9 change nè
 dòng số 10
 dòng số 11
 dòng số 12
